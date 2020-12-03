@@ -1,0 +1,2 @@
+def response(message):
+	return "BΘΠBΘΠBΘΠBΘΠBΘΠ YEAH THAT'S RIGHT BΘΠBΘΠBΘΠBΘΠBΘΠBΘΠBΘΠ" + "\n" + message + "\n" + "BΘΠBΘΠBΘΠBΘΠBΘΠBΘΠBΘΠ GREATEST FRATERNITY EVER BΘΠBΘΠBΘΠBΘΠBΘΠBΘΠBΘΠ SHOUTOUT TO PATER KNOX" 
